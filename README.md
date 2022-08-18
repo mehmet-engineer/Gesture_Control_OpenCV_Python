@@ -1,7 +1,7 @@
-# Gesture_Control_OpenCV_Python
-El Komut Kontrol Bilgisayarlı Görü Yazılımı
+# Gesture Control with OpenCV Python
+Gesture Control Based Computer Command Implementation
 
-Bu proje Görüntü İşlemenin alt disiplini olan "Gesture Control" uygulaması. Python dilinde OpenCV kütüphanesi kullanarak bilgisayar sesinin elle kontrol edilmesi sağlanıyor. Örneğin bir müzik dinlediğinizde hiçbir tuşa basmadan el komutlarıyla müziğin sesini ayarlamanız mümkün. Hassas el konumu ve Hızlı tepki süresiyle istenilen komuta ayarlanabilen harika bir proje!
+This project is the "Gesture Control" application, which is a sub-discipline of Image Processing. By using the OpenCV library in Python, it is possible to manually control the computer sound. For example, when you listen to music, it is possible to adjust the volume of the music with hand commands without pressing any keys. A great project that can be adjusted to the desired command with its sensitive hand position and fast response time!
 
 Video -> https://drive.google.com/drive/u/0/folders/1b6mBFnFQBsBS1XDOJOM_xB4JQ-wrBMqK
 
